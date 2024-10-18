@@ -20,23 +20,19 @@ I am a dedicated **Business Analyst** with expertise in transforming data into a
 
 #### 1. [Sales Performance Dashboard (Power BI)](https://github.com/yourusername/sales-performance-dashboard)
 - **Tools Used**: Power BI, Excel
-- **Objective**: Designed a Power BI dashboard to track and visualize key sales metrics (revenue, growth rate, and sales by region/product).
-- **Outcome**: Enabled the sales team to quickly identify underperforming areas and adjust their strategies, increasing sales growth by 12%.
+- **Objective**: Designed a Power BI dashboard to track and visualize key sales metrics (revenue, rating, and sales by city/product).
+- **Outcome**: Enabled the sales team to quickly identify underperforming areas and adjust their strategies, increasing sales growth.
 
-#### 2. [Customer Segmentation Analysis (Python & SQL)](https://github.com/yourusername/customer-segmentation-analysis)
-- **Tools Used**: Python (Pandas, Matplotlib), SQL
-- **Objective**: Performed a customer segmentation analysis using transactional data. Extracted data using SQL and built segmentation models using Python.
-- **Outcome**: Identified three customer segments, leading to personalized marketing strategies that improved customer engagement by 15%.
+#### 2. [Employee attrition Analysis (Python)](https://github.com/yourusername/customer-segmentation-analysis)
+- **Tools Used**: Python (numpy, Pandas, Matplotlib, seaborn, sklearn)
+- **Objective**: Determined what factor are most associated with employee attrition.
+- **Outcome**: Identified three major factors  that lead to employees leaving a company, leading to improve retention of employee.
+- 
+#### 3. [course sales Performance Dashboard (Power BI)](https://github.com/yourusername/financial-forecasting-model)
+- **Tools Used**: Power BI, Excel
+- **Objective**: Designed a Power BI dashboard to track and visualize key course sales metrics (price, rating, and duration by level,subject,month and year.)
+- **Outcome**: Enabled the sales team to quickly identify underperforming areas and adjust their strategies, increasing sales growth.
 
-#### 3. [Financial Forecasting Model (Excel & Power Pivot)](https://github.com/yourusername/financial-forecasting-model)
-- **Tools Used**: Excel (Power Pivot, Power Query), SQL
-- **Objective**: Built a financial forecasting model to predict quarterly revenue and expenses based on historical data.
-- **Outcome**: Improved forecast accuracy by 10%, allowing leadership to make better financial decisions.
-
-#### 4. [Inventory Management Optimization (SQL & Python)](https://github.com/yourusername/inventory-management-optimization)
-- **Tools Used**: SQL, Python (Pandas, Matplotlib)
-- **Objective**: Analyzed inventory data to optimize stock levels and reduce excess inventory costs. Used SQL to extract data and Python for the analysis.
-- **Outcome**: Reduced excess inventory by 18% and improved stock turnover rates.
 
 ### My Workflow
 - **Data Extraction**: Extracting and managing data using SQL from relational databases.
