@@ -24,7 +24,7 @@ I am a dedicated **Business Analyst** with expertise in transforming data into a
 - **Outcome**: Enabled the sales team to quickly identify underperforming areas and adjust their strategies, increasing sales growth.
 
 #### 2. [Employee attrition Analysis (Python)](https://github.com/yourusername/customer-segmentation-analysis)
-- **Tools Used**: Python (numpy, Pandas, Matplotlib, seaborn, sklearn)
+- **Tools Used**: Python (numpy, Pandas, Matplotlib, seaborn, sklearn), Jupyter notebook
 - **Objective**: Determined what factor are most associated with employee attrition.
 - **Outcome**: Identified three major factors  that lead to employees leaving a company, leading to improve retention of employee.
 - 
