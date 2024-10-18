@@ -49,7 +49,7 @@ I am a dedicated **Business Analyst** with expertise in transforming data into a
 - 💡 Exploring more advanced uses of **Python** for data automation and integrating it into business workflows.
 
 ### Let's Connect
-- 📫 Email: osazuwa.kelvin@example.com
+- 📫 Email: michealvolt01@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/osazuwa-kelvin](https://www.linkedin.com/in/micheal-osazuwa-kelvin14471230b)
 
 I’m always open to collaborating on data-driven business solutions and innovative analytics projects 🚀
