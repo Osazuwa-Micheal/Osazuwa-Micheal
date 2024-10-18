@@ -23,12 +23,12 @@ I am a dedicated **Business Analyst** with expertise in transforming data into a
 - **Objective**: Designed a Power BI dashboard to track and visualize key sales metrics (revenue, rating, and sales by city/product).
 - **Outcome**: Enabled the sales team to quickly identify underperforming areas and adjust their strategies, increasing sales growth.
 
-#### 2. [Employee attrition Analysis (Python)](https://github.com/yourusername/customer-segmentation-analysis)
+#### 2. [Employee Attrition Analysis (Python)](https://github.com/yourusername/customer-segmentation-analysis)
 - **Tools Used**: Python (numpy, Pandas, Matplotlib, seaborn, sklearn), Jupyter notebook.
 - **Objective**: Determined what factor are most associated with employee attrition.
 - **Outcome**: Identified three major factors  that lead to employees leaving a company, leading to improve retention of employee.
 - 
-#### 3. [course sales Performance Dashboard (Power BI)](https://github.com/yourusername/financial-forecasting-model)
+#### 3. [Course Sales Performance Dashboard (Power BI)](https://github.com/yourusername/financial-forecasting-model)
 - **Tools Used**: Power BI, Excel.
 - **Objective**: Designed a Power BI dashboard to track and visualize key course sales metrics (price, rating, and duration by level,subject,month and year.)
 - **Outcome**: Enabled the sales team to quickly identify underperforming areas and adjust their strategies, increasing sales growth.
