@@ -10,26 +10,26 @@ I am a dedicated **Business Analyst** with expertise in transforming data into a
 - 🚀 Strong background in solving business problems with data-driven solutions.
 
 ### Skills & Tools
-- **Data Analytics & Visualization**: Excel (Advanced), Power BI, Tableau
-- **Data Management**: SQL (MySQL, PostgreSQL)
-- **Scripting & Automation**: Python (Pandas, NumPy, Matplotlib)
-- **Business Intelligence**: Power BI for interactive dashboards and reporting
-- **Other Tools**: Microsoft Office Suite, Power Query, Power Pivot
+- **Data Analytics & Visualization**: Excel (Advanced), Power BI, Tableau.
+- **Data Management**: SQL (MySQL, PostgreSQL).
+- **Scripting & Automation**: Python (Pandas, NumPy, Matplotlib).
+- **Business Intelligence**: Power BI for interactive dashboards and reporting.
+- **Other Tools**: Microsoft Office Suite, Power Query, Power Pivot.
 
 ### Key Projects
 
 #### 1. [Sales Performance Dashboard (Power BI)](https://github.com/yourusername/sales-performance-dashboard)
-- **Tools Used**: Power BI, Excel
+- **Tools Used**: Power BI, Excel.
 - **Objective**: Designed a Power BI dashboard to track and visualize key sales metrics (revenue, rating, and sales by city/product).
 - **Outcome**: Enabled the sales team to quickly identify underperforming areas and adjust their strategies, increasing sales growth.
 
 #### 2. [Employee attrition Analysis (Python)](https://github.com/yourusername/customer-segmentation-analysis)
-- **Tools Used**: Python (numpy, Pandas, Matplotlib, seaborn, sklearn), Jupyter notebook
+- **Tools Used**: Python (numpy, Pandas, Matplotlib, seaborn, sklearn), Jupyter notebook.
 - **Objective**: Determined what factor are most associated with employee attrition.
 - **Outcome**: Identified three major factors  that lead to employees leaving a company, leading to improve retention of employee.
 - 
 #### 3. [course sales Performance Dashboard (Power BI)](https://github.com/yourusername/financial-forecasting-model)
-- **Tools Used**: Power BI, Excel
+- **Tools Used**: Power BI, Excel.
 - **Objective**: Designed a Power BI dashboard to track and visualize key course sales metrics (price, rating, and duration by level,subject,month and year.)
 - **Outcome**: Enabled the sales team to quickly identify underperforming areas and adjust their strategies, increasing sales growth.
 
