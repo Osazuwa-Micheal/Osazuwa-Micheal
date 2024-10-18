@@ -1,6 +1,6 @@
 # Hi there, I'm Osazuwa Micheal Kelvin 👋
 
-![GitHub Banner](https://chat.openai.com/mnt/data/A_professional_banner_for_a_GitHub_profile_of_a_Bu.png)
+![GitHub Banner](./banner.jpg)
 
 ### About Me
 I am a dedicated **Business Analyst** with expertise in transforming data into actionable business insights through **Excel**, **SQL**, **Power BI**, and **Python**. I excel at analyzing complex datasets, creating dynamic reports, and driving business strategy by connecting data with decision-making.
@@ -23,6 +23,9 @@ I am a dedicated **Business Analyst** with expertise in transforming data into a
 - **Objective**: Designed a Power BI dashboard to track and visualize key sales metrics (revenue, rating, and sales by city/product).
 - **Outcome**: Enabled the sales team to quickly identify underperforming areas and adjust their strategies, increasing sales growth.
 
+![Sales Performance Dashboard](./second_dash_board.jpg)
+  
+
 #### 2. [Employee Attrition Analysis (Python)](https://github.com/yourusername/customer-segmentation-analysis)
 - **Tools Used**: Python (numpy, Pandas, Matplotlib, seaborn, sklearn), Jupyter notebook.
 - **Objective**: Determined what factor are most associated with employee attrition.
@@ -32,7 +35,7 @@ I am a dedicated **Business Analyst** with expertise in transforming data into a
 - **Tools Used**: Power BI, Excel.
 - **Objective**: Designed a Power BI dashboard to track and visualize key course sales metrics (price, rating, and duration by level,subject,month and year.)
 - **Outcome**: Enabled the sales team to quickly identify underperforming areas and adjust their strategies, increasing sales growth.
-
+![Course Sales Performance Dashboard](./first_dash_board.jpg)
 
 ### My Workflow
 - **Data Extraction**: Extracting and managing data using SQL from relational databases.
