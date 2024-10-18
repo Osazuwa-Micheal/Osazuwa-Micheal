@@ -50,6 +50,6 @@ I am a dedicated **Business Analyst** with expertise in transforming data into a
 
 ### Let's Connect
 - 📫 Email: osazuwa.kelvin@example.com
-- 💼 LinkedIn: [linkedin.com/in/osazuwa-kelvin](https://linkedin.com/in/osazuwa-kelvin)
+- 💼 LinkedIn: [linkedin.com/in/osazuwa-kelvin](https://www.linkedin.com/in/micheal-osazuwa-kelvin14471230b)
 
 I’m always open to collaborating on data-driven business solutions and innovative analytics projects 🚀
