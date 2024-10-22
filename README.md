@@ -18,7 +18,7 @@ I am a dedicated **Business Analyst** with expertise in transforming data into a
 
 ### Key Projects
 
-#### 1. [Sales Performance Dashboard (Power BI)](https://github.com/yourusername/sales-performance-dashboard)
+#### 1. [Sales Performance Dashboard (Power BI)](https://github.com/Osazuwa-Micheal/sales-project)
 - **Tools Used**: Power BI, Excel.
 - **Objective**: Designed a Power BI dashboard to track and visualize key sales metrics (revenue, rating, and sales by city/product).
 - **Outcome**: Enabled the sales team to quickly identify underperforming areas and adjust their strategies, increasing sales growth.
@@ -26,7 +26,7 @@ I am a dedicated **Business Analyst** with expertise in transforming data into a
 ![Sales Performance Dashboard](./second_dash_board.jpg)
   
 
-#### 2. [Employee Attrition Analysis (Python)](https://github.com/yourusername/customer-segmentation-analysis)
+#### 2. [Employee Attrition Analysis (Python)](https://github.com/Osazuwa-Micheal/employee-attrition)
 - **Tools Used**: Python (numpy, Pandas, Matplotlib, seaborn, sklearn), Jupyter notebook.
 - **Objective**: Determined what factor are most associated with employee attrition.
 - **Outcome**: Identified three major factors  that lead to employees leaving a company, leading to improve retention of employee.
