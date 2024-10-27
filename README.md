@@ -1,6 +1,6 @@
 # Hi there, I'm Osazuwa Micheal Kelvin 👋
 
-![GitHub Banner](./banner.jpg)
+![GitHub Banner](./da-banner.jpg)
 
 ### About Me
 I am a dedicated **Data Analyst** with expertise in transforming data into actionable business insights through **Excel**, **SQL**, **Power BI**, and **Python**. I excel at analyzing complex datasets, creating dynamic reports, and driving business strategy by connecting data with decision-making.
