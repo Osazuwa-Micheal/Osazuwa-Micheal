@@ -3,7 +3,7 @@
 ![GitHub Banner](./banner.jpg)
 
 ### About Me
-I am a dedicated **Business Analyst** with expertise in transforming data into actionable business insights through **Excel**, **SQL**, **Power BI**, and **Python**. I excel at analyzing complex datasets, creating dynamic reports, and driving business strategy by connecting data with decision-making.
+I am a dedicated **Data Analyst** with expertise in transforming data into actionable business insights through **Excel**, **SQL**, **Power BI**, and **Python**. I excel at analyzing complex datasets, creating dynamic reports, and driving business strategy by connecting data with decision-making.
 
 - 💼 Extensive experience working across diverse industries such as finance, retail, and logistics.
 - 📊 Proficient in building dashboards, reports, and financial models that provide clarity on business performance.
