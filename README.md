@@ -30,7 +30,7 @@ I am a dedicated **Data Analyst** with expertise in transforming data into actio
 - **Tools Used**: Python (numpy, Pandas, Matplotlib, seaborn, sklearn), Jupyter notebook.
 - **Objective**: Determined what factor are most associated with employee attrition.
 - **Outcome**: Identified three major factors  that lead to employees leaving a company, leading to improve retention of employee.
-- 
+![Employee Attrition](./Employee-Attrition.jpg)
 #### 3. [Course Sales Performance Dashboard (Power BI)](https://github.com/yourusername/financial-forecasting-model)
 - **Tools Used**: Power BI, Excel.
 - **Objective**: Designed a Power BI dashboard to track and visualize key course sales metrics (price, rating, and duration by level,subject,month and year.)
