@@ -25,13 +25,13 @@ This project involves analyzing a large healthcare dataset containing 50,000 ano
 - **Tools Used**: Tableau, Excel.
 ![Healthconnect Dashboard](./healthconnect-dashboard.png)
 
-### 2. [Customer Rentention Project (Power BI)](https://github.com/Osazuwa-Micheal/sales-project)
+### 2. [Customer Rentention Project (Power BI)](https://github.com/Osazuwa-Micheal/Customer_Rentention_Project)
 - **Tools Used**: Power BI.
-- **Objective**: Designed a Power BI dashboard to track and visualize key sales metrics (revenue, rating, and sales by city/product).
-- **Outcome**: Enabled the sales team to quickly identify underperforming areas and adjust their strategies, increasing sales growth.
+- **Objective**: This project focuses on analyzing customer retention using Power BI. 
+- **Outcome**: The interactive dashboard provides key insights into churn behavior based on multiple customer attributes like payment method, contract type, dependents, gender, and partnership status
 ![Sales Performance Dashboard](./second_dash_board.jpg)
 
-### 3. [HR Dashboard (Power BI)](https://github.com/Osazuwa-Micheal/sales-project)
+### 3. [HR Dashboard (Power BI)](https://github.com/Osazuwa-Micheal/HR_Analysis)
 - **Tools Used**: Power BI.
 - **Objective**: Designed a Power BI dashboard to track and visualize key sales metrics (revenue, rating, and sales by city/product).
 - **Outcome**: Enabled the sales team to quickly identify underperforming areas and adjust their strategies, increasing sales growth.
@@ -45,7 +45,7 @@ This project involves analyzing a large healthcare dataset containing 50,000 ano
 
 ### 5. [Call Center Project (Power BI)](https://github.com/Osazuwa-Micheal/Call_Center_Project)
 - **Tools Used**: Power BI.
-- **Objective**: This project presents an interactive **Call Center Dashboard** built to analyze key performance metrics for customer service operations.
+- **Objective**: This project presents an interactive Call Center Dashboard built to analyze key performance metrics for customer service operations.
 - **Outcome**:  The dashboard provides insights into customer satisfaction, call handling efficiency, agent performance, and overall call resolution rates.
 ![Call Center Dashboard](./call_center_dashboard.jpg)
 
