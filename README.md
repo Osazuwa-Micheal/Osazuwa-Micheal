@@ -23,25 +23,40 @@ I am a dedicated **Data Analyst** with expertise in transforming data into actio
 #### Overview  
 This project involves analyzing a large healthcare dataset containing 50,000 anonymized patient records. The goal was to uncover insights and trends related to various health conditions, demographics, and outcomes to support data-driven healthcare decisions. 
 - **Tools Used**: Tableau, Excel.
-
 ![Healthconnect Dashboard](./healthconnect-dashboard.png)
 
+### 2. [Customer Rentention Project (Power BI)](https://github.com/Osazuwa-Micheal/sales-project)
+- **Tools Used**: Power BI.
+- **Objective**: Designed a Power BI dashboard to track and visualize key sales metrics (revenue, rating, and sales by city/product).
+- **Outcome**: Enabled the sales team to quickly identify underperforming areas and adjust their strategies, increasing sales growth.
+![Sales Performance Dashboard](./second_dash_board.jpg)
 
+### 3. [HR Dashboard (Power BI)](https://github.com/Osazuwa-Micheal/sales-project)
+- **Tools Used**: Power BI.
+- **Objective**: Designed a Power BI dashboard to track and visualize key sales metrics (revenue, rating, and sales by city/product).
+- **Outcome**: Enabled the sales team to quickly identify underperforming areas and adjust their strategies, increasing sales growth.
+![HR Dashboard](./second_dash_board.jpg)
 
-### 2. [Sales Performance Dashboard (Power BI)](https://github.com/Osazuwa-Micheal/sales-project)
+### 4. [Employee Attrition Analysis (Python)](https://github.com/Osazuwa-Micheal/employee-attrition)
+- **Tools Used**: Python (numpy, Pandas, Matplotlib, seaborn, sklearn), Jupyter notebook.
+- **Objective**: Determined what factor are most associated with employee attrition.
+- **Outcome**: Identified three major factors  that lead to employees leaving a company, leading to improve retention of employee.
+![Employee Attrition](./Employee-Attrition.jpg)
+
+### 5. [Call Center Project (Power BI)](https://github.com/Osazuwa-Micheal/Call_Center_Project)
+- **Tools Used**: Power BI.
+- **Objective**: This project presents an interactive **Call Center Dashboard** built to analyze key performance metrics for customer service operations.
+- **Outcome**:  The dashboard provides insights into customer satisfaction, call handling efficiency, agent performance, and overall call resolution rates.
+![Call Center Dashboard](./call_center_dashboard.jpg)
+
+### 6. [Sales Performance Dashboard (Power BI)](https://github.com/Osazuwa-Micheal/sales-project)
 - **Tools Used**: Power BI, Excel.
 - **Objective**: Designed a Power BI dashboard to track and visualize key sales metrics (revenue, rating, and sales by city/product).
 - **Outcome**: Enabled the sales team to quickly identify underperforming areas and adjust their strategies, increasing sales growth.
 
 ![Sales Performance Dashboard](./second_dash_board.jpg)
-  
 
-### 3. [Employee Attrition Analysis (Python)](https://github.com/Osazuwa-Micheal/employee-attrition)
-- **Tools Used**: Python (numpy, Pandas, Matplotlib, seaborn, sklearn), Jupyter notebook.
-- **Objective**: Determined what factor are most associated with employee attrition.
-- **Outcome**: Identified three major factors  that lead to employees leaving a company, leading to improve retention of employee.
-![Employee Attrition](./Employee-Attrition.jpg)
-### 4. [Course Sales Performance Dashboard (Power BI)](https://github.com/yourusername/financial-forecasting-model)
+### 7. [Course Sales Performance Dashboard (Power BI)](https://github.com/yourusername/financial-forecasting-model)
 - **Tools Used**: Power BI, Excel.
 - **Objective**: Designed a Power BI dashboard to track and visualize key course sales metrics (price, rating, and duration by level,subject,month and year.)
 - **Outcome**: Enabled the sales team to quickly identify underperforming areas and adjust their strategies, increasing sales growth.
